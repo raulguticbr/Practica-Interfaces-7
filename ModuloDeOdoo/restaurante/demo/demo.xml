@@ -1,0 +1,20 @@
+<odoo>
+    <data>
+      <record model="restaurante.plato" id="plato0">
+        <field name="name">Plato 0</field>
+        <field name="description">Descripción del plato 0</field>
+      </record>
+      <record model="restaurante.plato" id="plato1">
+        <field name="name">Plato 1</field>
+        <!-- no description for this one -->
+      </record>
+      <record model="restaurante.plato" id="plato2">
+        <field name="name">Plato 2</field>
+        <field name="description">Descripción del plato 2</field>
+      </record>
+      <record model="restaurante.plato" id="PlatoDeRaul">
+        <field name="name">PlatoDeRaul</field>
+        <!-- no description for this one -->
+      </record>
+    </data>
+</odoo>
